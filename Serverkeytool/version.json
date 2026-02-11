@@ -1,5 +1,6 @@
 {
     "version": "2.0.0.1",
-    "url": "https://github.com/Bachphong/serverkeytool/raw/master/Serverkeytool/BachTinhPhongTool.zip",
+    "url": "https://github.com/Bachphong/serverkeytool/blob/master/Serverkeytool/BachTinhPhongTool.zip",
     "changelog": "- Cập nhật tính năng Auto Update.\n- Sửa lỗi nhỏ.\n- Tối ưu hiệu suất."
 }
+
