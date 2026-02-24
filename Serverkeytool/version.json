@@ -1,8 +1,9 @@
 {
     "version": "20.5.26.24",
     "url": "",
-    "changelog": "- Cập nhật tính năng Auto Update.\n- nâng cấp mạnh phần check key & session để tăng bảo mật.\n- Tối ưu hiệu suất.\n- test tính năng chỉ update cho vĩnh viễn."
+    "changelog": "- Fix lỗi được báo cáo.\n- nâng cấp mạnh phần check key & session để tăng bảo mật.\n- Tối ưu hiệu suất.\n- test tính năng chỉ update cho vĩnh viễn."
 }
+
 
 
 
