@@ -1,8 +1,9 @@
 {
     "version": "20.5.26.25",
-    "url": "https://github.com/Bachphong/serverkeytool/raw/refs/heads/master/BachTinhPhongTool.zip",
+    "url": "https://raw.githubusercontent.com/Bachphong/serverkeytool/refs/heads/master/Serverkeytool/BachTinhPhongTool.zip",
     "changelog": "- Fix lỗi được báo cáo.\n- nâng cấp mạnh phần check key & session để tăng bảo mật.\n- Tối ưu hiệu suất.\n- test tính năng chỉ update cho vĩnh viễn."
 }
+
 
 
 
