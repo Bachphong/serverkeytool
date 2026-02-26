@@ -1,8 +1,9 @@
 {
     "version": "20.5.26.25",
     "url": "https://raw.githubusercontent.com/Bachphong/serverkeytool/refs/heads/master/Serverkeytool/BachTinhPhongTool.zip",
-    "changelog": "- Fix lỗi được báo cáo fix người dùng tạm.\n- Tối ưu hiệu suất.\n- fix tính năng chỉ update cho vĩnh viễn.\n cho phép đổi tên thư mục ngắn gọn yêu cầu BTP_2026 hoặc BachTinhPhongTool"
+    "changelog": "- Fix người dùng tạm full chức năng.\n- xem mật khẩu đăng nhâp.\n- thay đổi tối ưu.\n xử lý lại lỗi còn sót "
 }
+
 
 
 
