@@ -1,8 +1,9 @@
 {
-    "version": "20.5.2.26",
+    "version": "20.5.302.26",
     "url": "https://raw.githubusercontent.com/Bachphong/serverkeytool/refs/heads/master/Serverkeytool/BachTinhPhongTool.zip",
     "changelog": "- Fix lại toàn bộ chức năng bị lỗi bản cũ.\n- xem mật khẩu đăng nhâp.\n- thêm nhiều chức năng mới. "
 }
+
 
 
 
