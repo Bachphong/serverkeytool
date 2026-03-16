@@ -1,7 +1,7 @@
 {
-    "version": "20.5.313.26",
+    "version": "20.5.315.26",
     "url": "https://raw.githubusercontent.com/Bachphong/serverkeytool/refs/heads/master/Serverkeytool/BachTinhPhongTool.zip",
-    "changelog": "Chỉ nên update khi dùng bản 20.5.308.26 trở xuống \n Bản 309 và 310 ib em lấy link \n fix backupdriver \n thêm chức năng mới"
+    "changelog": "Cập nhật sửa lỗi và thêm nhiều chức năng mới"
 }
 
 
